@@ -1,4 +1,4 @@
-# Laravel Font Awesome
+![Image of Yaktocat](laravel-font-awesome.svg)
 
 Easily add Font Awesome icons using these simple Blade directives.
 

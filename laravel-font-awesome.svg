@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 469 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(0.936922,0,0,0.160119,0,0)">
+        <rect x="0" y="0" width="500" height="500" style="fill:none;"/>
+        <g transform="matrix(1.06732,0,0,6.24537,0,-189.565)">
+            <text x="78.707px" y="83.921px" style="font-family:'HelveticaNeue-Bold', 'Helvetica Neue';font-weight:700;font-size:35.254px;">Laravel</text>
+            <text x="211.262px" y="83.921px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:35.254px;">Font A<tspan x="314.451px 341.174px " y="83.921px 83.921px ">we</tspan>some</text>
+        </g>
+        <g transform="matrix(0.0857405,0,0,0.501704,43.7741,257.379)">
+            <g transform="matrix(1,0,0,1,-224,-256)">
+                <path d="M444.373,359.424C444.373,366.592 438.229,369.664 431.061,372.736C402.389,385.024 371.669,396.288 338.901,396.288C292.821,396.288 271.317,367.616 216.021,367.616C176.085,367.616 134.101,381.952 100.309,397.312C98.261,398.336 96.213,398.336 94.165,399.36L94.165,477.184C94.165,498.589 78.043,512 60.373,512C40.917,512 25.557,496.64 25.557,477.184L25.557,102.4C12.245,92.16 3.029,75.776 3.029,57.344C3.029,25.6 28.629,0 60.373,0C92.117,0 117.717,25.6 117.717,57.344C117.717,75.776 109.525,92.16 95.189,102.4L95.189,134.144C99.313,132.77 153.957,105.472 209.877,105.472C275.147,105.472 307.553,133.12 336.853,133.12C375.765,133.12 418.773,105.472 429.013,105.472C437.205,105.472 444.373,111.616 444.373,118.784L444.373,359.424Z" style="fill:rgb(255,0,0);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>
