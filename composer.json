@@ -1,0 +1,39 @@
+{
+    "name": "djam90/laravel-font-awesome",
+    "description": "Laravel Blade directives to easily use Font Awesome icons.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Twigg",
+            "email": "hello@danieltwigg.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Djam90\\LaravelFontAwesome\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Djam90\\LaravelFontAwesome\\Test\\": "tests"
+        }
+    },
+    "require": {
+        "illuminate/support": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0",
+        "orchestra/testbench": "^5.1"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Djam90\\LaravelFontAwesome\\LaravelFontAwesomeServiceProvider"
+            ]
+        }
+    }
+}
